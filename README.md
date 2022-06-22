@@ -1,6 +1,6 @@
-### Olá! sou o Daniel👋
+### Olá! sou o Daniel👋😃
 
-😃 <h4>Atualmente estou estudando sobre ferramentas e práticas de DevOps.</h4>
+<h4>Atualmente estou estudando sobre ferramentas e práticas de DevOps.</h4>
 
 
 <div align="center">
@@ -11,7 +11,7 @@
  
   
  <div style="display: inline_block"><br>
-  <h4>Algumas tecnologias que estou utilizando</h4>
+  <h4>Algumas tecnologias utilizadas</h4>
   <img align="center" alt="daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="daniel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg"> 
   <img align="center" alt="daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
