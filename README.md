@@ -1,6 +1,6 @@
 ### Olá! sou o Daniel👋
 
-😃 <h4>Atualmente estou estudando sobre ferramentas e práticas de DevOps.</h4>A
+😃 <h4>Atualmente estou estudando sobre ferramentas e práticas de DevOps.</h4>
 
 
 <div align="center">
