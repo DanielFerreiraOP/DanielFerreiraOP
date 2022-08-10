@@ -1,6 +1,6 @@
 ### Olá! sou o Daniel👋😃
 
-<h4>Atualmente estou estudando sobre ferramentas e práticas de Infraestrutura de Redes e DevOps.</h4>
+<h4>Atualmente estou estudando sobre a cultura DevOps e ferramentas de IasS.</h4>
 
 
 <div align="center">
