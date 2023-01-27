@@ -36,7 +36,7 @@
   
   
 <div> 
- <h4>My pages</h4>
+ <h4>My page</h4>
  <a href="https://www.linkedin.com/in/danielferreira-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
   
