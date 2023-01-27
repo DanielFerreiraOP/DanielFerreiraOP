@@ -1,6 +1,6 @@
-### Olá! sou o Daniel👋😃
+###Hi! My name's Daniel👋😃
 
-<h4>Atualmente estou estudando sobre a cultura DevOps e ferramentas de IasS.</h4>
+<h4>I currently work with DevOps.</h4>
 
 
 <div align="center">
@@ -11,7 +11,7 @@
  
   
  <div style="display: inline_block"><br>
-  <h4>Algumas tecnologias utilizadas</h4>
+  <h4>Some technologies</h4>
   <img align="center" alt="daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="daniel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg"> 
   <img align="center" alt="daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -36,7 +36,7 @@
   
   
 <div> 
- <h4>Contato</h4>
+ <h4>My pages</h4>
  <a href="https://www.linkedin.com/in/danielferreira-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
   
