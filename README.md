@@ -26,9 +26,9 @@ Daniel - DevOps Engineer
 
 #### ⭐ GitHub Stats
 <div align="center">
-  <a href="https://github.com/DanielFerreiraOP">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielFerreiraOP&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFerreiraOP&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/danielferreiraop">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielferreiraop&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielferreiraop&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 ---
